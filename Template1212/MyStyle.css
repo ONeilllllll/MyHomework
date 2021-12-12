@@ -1,0 +1,32 @@
+<style type="text/css">
+
+		span
+		{
+			color: purple;
+			font-weight: bolder;
+			font-size: xx-large;
+		}
+
+		.extra span
+		{
+			color: black;
+			font-style: italic;
+			font-weight: inherit;
+			font-size: medium;
+		}
+
+		em
+		{
+			font-style: normal;
+			font-weight: bolder;
+			font-size: xx-large;
+		}
+
+		li em
+		{
+			font-style: normal;
+			font-weight: bolder;
+			font-size: medium;
+		}
+
+	</style>
