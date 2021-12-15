@@ -1,0 +1,40 @@
+
+		.left50
+		{
+			position: absolute;
+			width: 50%;
+			right: 0px;
+		}
+		#footer2
+		{
+			width: 100%;
+			position: absolute;
+			top: 2000px;
+		}
+		
+		.background
+		{
+			border-style: ridge;
+			border-color: grey;
+			margin-top: 800px;
+			background-image: url('cloud.jpg');
+			background-position: left 0px;
+			background-position: right 0px;
+			background-position: bottom 0px;
+			width: 100%;
+			height: 800px;
+			z-index: 1;
+		}
+
+		.king
+		{
+			border: 1px double orangered;
+			width: 50%;
+			height: 700px;
+			position: relative;
+			left: 25%;
+			right: 25%;
+			top: 50px;
+			bottom: 50px;
+			z-index: 2;
+		}
